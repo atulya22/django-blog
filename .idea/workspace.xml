@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05ea7c4-225e-4b24-894f-b875b05b2fd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cmKTGTQDDdEyEN8ylksUjZS2H6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05ea7c4-225e-4b24-894f-b875b05b2fd9" name="Default Changelist" comment="" />
+      <created>1591128334434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591128334434</updated>
+      <workItem from="1591128335905" duration="9000" />
+      <workItem from="1591128731421" duration="1313000" />
+      <workItem from="1591131258973" duration="262000" />
+      <workItem from="1591132629374" duration="4728000" />
+      <workItem from="1591218401709" duration="12000" />
+      <workItem from="1591218553504" duration="607000" />
+      <workItem from="1591287096728" duration="639000" />
+      <workItem from="1591448129792" duration="1982000" />
+      <workItem from="1591622467463" duration="1037000" />
+      <workItem from="1591638906929" duration="4798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2034" y="191" key="#Inspections" timestamp="1591644306541">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2034" y="191" key="#Inspections/0.23.1440.786/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591644306541" />
+    <state x="1909" y="145" key="SettingsEditor" timestamp="1591648826775">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1909" y="145" key="SettingsEditor/0.23.1440.786/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591648826775" />
+    <state x="2065" y="256" width="670" height="676" key="search.everywhere.popup" timestamp="1591142930652">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2065" y="256" width="670" height="676" key="search.everywhere.popup/0.23.1440.790/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591142930652" />
   </component>
 </project>
