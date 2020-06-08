@@ -25,11 +25,12 @@ A fully featured blog created using the Django framework
 <h2> Techinal Details</h2>
 
 <h3> Project Structure </h3>
-The project is split into two apps, blog and users.
 
-The blog app deals with post creation, updates and deletes. It is in charge of displaying all blog posts on the home page as well
-posts by specific users.
+The project is split into two apps, blog and users.  
 
+The blog app deals with post creation, updates and deletes. It is in charge of displaying all blog posts on the
+home page as well posts by specific users.
+  
 The users app deals with new user registration and user profile creation.
 
 <h3> Views </h3>
